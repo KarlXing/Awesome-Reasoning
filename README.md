@@ -19,3 +19,7 @@
 1. **RAVEN**  
    **Paper**: Zhang, Chi, et al. "Raven: A dataset for relational and analogical visual reasoning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.  
    **Key Points**: Each image is generated based on a 5-level (scene, structure, component, layout and entity) grammer and attributes are associated with layouts and entities. Rules (constant, arithmetic, progression and distributed three) are applied to attributes to form an ordered triple-image sequence for inference. Personally, I recommend to check the supplementary for a more intuitive understanding about the dataset.
+
+2. **PGM**  
+   **Paper**: Santoro, Adam, et al. "Measuring abstract reasoning in neural networks." International Conference on Machine Learning. 2018.  
+   **Key Points**: The first work that proposed reasoning dataset based on Raven's Progressive Matrices. Compared to RAVEN, it's less diverse but has more design on data splitting for generalization. 
