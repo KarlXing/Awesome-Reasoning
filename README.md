@@ -3,6 +3,9 @@
 ## Basics And Theoretical Work
 1. Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, & Stefanie Jegelka (2020). What Can Neural Networks Reason About?. In International Conference on Learning Representations.  
   **Key points**: The structure of neural networks should align with underlying reasoning process of tasks for better generalization. (BTW, GNN is powerful in reasoning)
+  
+2. van Steenkiste, S., Locatello, F., Schmidhuber, J., & Bachem, O. (2019). Are Disentangled Representations Helpful for Abstract Visual Reasoning?. In Advances in Neural Information Processing Systems (pp. 14222-14235).  
+  **Key points**: Disentanglement helps improve learning efficiency of downstream reasoning tasks. A very large-scale study with some useful conclusions.
 
 
 ## Visual Reasoning
