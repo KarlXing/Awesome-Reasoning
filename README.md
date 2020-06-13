@@ -26,6 +26,9 @@
   **Key Points**: This paper proposes LABC (learning analogy by contrasting) which means selecting incorrect candidate answers that have similar perceptual properties as the correct answer to force the learner to learn to infer analogical relations rather than perceptural correlations.
 
 
+## Logical Reasoning
+1. Dai, Wang-Zhou, et al. "Bridging Machine Learning and Logical Reasoning by Abductive Learning." Advances in Neural Information Processing Systems. 2019.  
+  **Keypoints**: The learning system is composed of a perception module that encodes sensory information into semantic concepts and a logical reasoning module that learns the logic program with semantic concepts as input. The learning for each of them is intuitive (supervised training and abductive logic programming). The question is how to bridge them. Under the ABL (Abductive Learning) framework, the key is finding a concept mapping (actually the bridge) that maximizes the number of training samples that can be satisified by the learned logic programs. This is implemented via greedy search.   
 
 
 
