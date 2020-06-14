@@ -42,3 +42,8 @@ This is an ongoing list of papers about different categories of reasoning. I add
 2. **PGM**  
    **Paper**: Santoro, Adam, et al. "Measuring abstract reasoning in neural networks." International Conference on Machine Learning. 2018.  
    **Key Points**: The first work that proposed reasoning dataset based on Raven's Progressive Matrices. Compared to RAVEN, it's less diverse but has more design on data splitting for generalization. 
+
+
+3. **PHYRE**  
+   **Paper**: Bakhtin, A., van der Maaten, L., Johnson, J., Gustafson, L., & Girshick, R. (2019). Phyre: A new benchmark for physical reasoning. In Advances in Neural Information Processing Systems (pp. 5083-5094).   
+   **Key Points**: A physical reasoning benchmark based on deterministic Newtonion physics with three forces (gravity, friction, collision) taken into consideration. Each task is composed of balls and rectangle bars. The goal is placing one (PHERE-B) or two (PHERE-2B) balls so that the goal object could touch the goal subject for 3 seconds.   
