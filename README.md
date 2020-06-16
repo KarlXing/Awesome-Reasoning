@@ -31,10 +31,15 @@ This is an ongoing list of papers about different categories of reasoning. I add
   
 3. Steenbrugge, X., Leroux, S., Verbelen, T., & Dhoedt, B. (2018). Improving generalization for abstract reasoning tasks using disentangled feature representations. arXiv preprint arXiv:1811.04784. [[pdf]](https://arxiv.org/abs/1811.04784)      
   **Key Points**: A simplified version of *Are Disentangled Representations Helpful for Abstract Visual Reasoning*. Gradually increasing beta value during vae training seems interesting.
+
+
+4. Zhang, C., Jia, B., Gao, F., Zhu, Y., Lu, H., & Zhu, S. C. (2019). Learning perceptual inference by contrasting. In Advances in Neural Information Processing Systems (pp. 1073-1085).   [[pdf]](http://wellyzhang.github.io/attach/neurips19zhang.pdf)   
+  **Key Points**: This paper uses a contrastive module that focuses on discrimiative features and a practical NCE loss. Besides that, an inference module that learns the underlying rules are trained jointly.   
   
   
-4. Wang, Duo, Mateja Jamnik, and Pietro Lio (2020). Abstract diagrammatic reasoning with multiplex graph networks. In International Conference on Learning Representations. [[pdf]](https://openreview.net/forum?id=ByxQB1BKwH)  
+5. Wang, Duo, Mateja Jamnik, and Pietro Lio (2020). Abstract diagrammatic reasoning with multiplex graph networks. In International Conference on Learning Representations. [[pdf]](https://openreview.net/forum?id=ByxQB1BKwH)  
   **Key Points**: Extract object-level representations and use multiplex graph networks to learn relation embeddings between nodes and for final reasoning. The writing is not clear for me though..
+
   
 
 
