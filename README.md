@@ -39,6 +39,9 @@ This is an ongoing list of papers about different categories of reasoning. I add
   
 5. Wang, Duo, Mateja Jamnik, and Pietro Lio (2020). Abstract diagrammatic reasoning with multiplex graph networks. In International Conference on Learning Representations. [[pdf]](https://openreview.net/forum?id=ByxQB1BKwH)  
   **Key Points**: Extract object-level representations and use multiplex graph networks to learn relation embeddings between nodes and for final reasoning. The writing is not clear for me though..
+  
+6. Zhuo, T., & Kankanhalli, M. (2020). Solving Raven's Progressive Matrices with Neural Networks. arXiv preprint arXiv:2002.01646.  [[pdf]](https://arxiv.org/abs/2002.01646)   
+  **Key Points**: Pre-trained resnet and deeper layers could help reduce over-fitting. It also provides an unsupervised way to do the training.
 
   
 
